@@ -1,7 +1,7 @@
 ## ENOCK MOLLA
 
 
-I am a technician Cartographer and Goinformatician, Proud Alumn from [Ardhi Institute Tabora](https://www.arita.ac.tz) and Undergraduate student at [Ardhi University Dar es Salaam](https://www.aru.ac.tz). My Research interest include Geographic Information System, Earth Observation Science, Open source Geospatial Software and Artificail Intelligence.
+I am a technician Cartographer and Goinformatician, Proud Alumn from [Ardhi Institute Tabora](https://www.arita.ac.tz) and Undergraduate student at [Ardhi University Dar es Salaam](https://www.aru.ac.tz). My Research interest include Geographic Information System, Earth Observation Science, Open source Geospatial Software and Artificial Intelligence.
 
 _Email_ enockmolla@gmail.com
 
@@ -11,7 +11,7 @@ _Github_ [enogis](https://github.com/enogis)
 
 ## Education
 
-* **Bsc**. in _Geoinformatics_ (on progress to 2022)
+* **Bsc**. in _Geoinformatics_ (on progress until 2022)
 * **Ordinary Diploma** in _Cartography_ (2017)
 * **Technician Certificate** in _Cartography_ (2015)
 

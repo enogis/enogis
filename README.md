@@ -1,3 +1,6 @@
+## ENOCK MOLLA
+
+I am a technician Cartographer and Goinformatician, Proud Alumn from [Ardhi Institute Tabora](https://www.arita.ac.tz) and Undergraduate student at [Ardhi University Dar es Salaam](https://www.aru.ac.tz)
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...

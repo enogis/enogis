@@ -9,13 +9,17 @@ _Twitter_ [EnockGibasa](https://twitter.com/EnockGibasa)
 
 _Github_ [enogis](https://github.com/enogis)
 
+
+
 ## Education
 
 * **Bsc**. in _Geoinformatics_ (on progress until 2022)
 * **Ordinary Diploma** in _Cartography_ (2017)
 * **Technician Certificate** in _Cartography_ (2015)
 
-## Training And Workshop/Ativities Participated
+
+
+### Training And Workshop/Ativities Participated
 
 * LRMS Data entry officer (2015)
 

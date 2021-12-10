@@ -15,7 +15,7 @@ _Github_ [enogis](https://github.com/enogis)
 * **Ordinary Diploma** in _Cartography_ (2017)
 * **Technician Certificate** in _Cartography_ (2015)
 
-### TRAINING AND WORKSHOP/ACTIVITIES PARTICIPATED
+## Training And Workshop/Ativities Participated
 
 * LRMS Data entry officer (2015)
 

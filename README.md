@@ -15,6 +15,17 @@ _Github_ [enogis](https://github.com/enogis)
 * **Ordinary Diploma** in _Cartography_ (2017)
 * **Technician Certificate** in _Cartography_ (2015)
 
+### TRAINING AND WORKSHOP/ACTIVITIES PARTICIPATED
+
+* LRMS Data entry officer (2015)
+
+* Cadastral Survey Insemester Project (2020)
+
+* [Resilience academy intership](https://resilienceacademy.ac.tz/) (2020)
+
+* Photogrammetry and Remote sensing Insemester Project (2021)
+
+
 <!--
 **enogis/enogis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
